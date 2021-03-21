@@ -4,13 +4,13 @@
 
 ### Stats
 
-<a href='https://github.com/maisans-maid/'> <img src='https://github-readme-stats.vercel.app/api?username=maisans-maid&count_private=true&show_icons=true&theme=nightowl'> </a>
+<a href='https://github.com/sketch-dev/'> <img src='https://github-readme-stats.vercel.app/api?username=sketch-dev&count_private=true&show_icons=true&theme=nightowl'> </a>
 
 <p></br></p>
 
 ### Pinned Repositories
 
-[![7DS-Log](https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=Mai&theme=nightowl)](https://github.com/sketch-dev/7DS-Log)
+[![7DS-Log](https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=7DS-Logs&theme=nightowl)](https://github.com/sketch-dev/7DS-Log)
 
 ### Most Used Languages
 
